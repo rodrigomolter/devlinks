@@ -2,7 +2,7 @@
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-Confira live em https://rodrigomolter.github.io/devlinks/
+Confira live em https://socials.rodrigomolter.com/
 
 ## 🚀 Tecnologias
 
